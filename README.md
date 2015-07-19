@@ -1,7 +1,11 @@
 # ShooterGameImplement
-Este Blueprit contiene un gr·fico de actividsades para modificar el comportamiento del bot del proyecto de ejemplo de ShooterGame
+Este Blueprit contiene un gr√°fico de actividsades para modificar el comportamiento del bot del proyecto de ejemplo de ShooterGame
 
 Colcaboradores:
-Rogelio DÌaz
-JosÈ CastrellÛn
-Daniel MartÌnez
+Rogelio D√≠az
+Jos√© Castrell√≥n
+Daniel Mart√≠nez
+
+
+Link al video
+http://youtu.be/8sBAdvp8ivQ
